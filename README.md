@@ -1,5 +1,7 @@
 # 🏦 Customer Churn Prediction – End-to-End Data Science Project
 
+![alt text](https://github.com/denisgaribovic/customer-churn-prediction/blob/main/Banner.png)
+
 This project tackles a common and financially significant problem in multiple sectors: **customer churn**.
 
 The goal is to **identify which customers are at risk of leaving** using historical banking data and to build an interpretable and production-ready machine learning model to support **retention strategies**.
