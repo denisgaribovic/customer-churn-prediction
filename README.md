@@ -1,5 +1,3 @@
-# 🏦 Customer Churn Prediction – End-to-End Data Science Project
-
 ![alt text](https://github.com/denisgaribovic/customer-churn-prediction/blob/main/Banner.png)
 
 This project tackles a common and financially significant problem in multiple sectors: **customer churn**.
