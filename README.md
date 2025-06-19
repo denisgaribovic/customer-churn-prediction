@@ -21,8 +21,7 @@ This project uses interpretable models and comprehensive feature engineering on 
 
 ## 🎯 Business Context
 
-Customer acquisition costs are rising, making **retention and loyalty critical for sustainable growth**.  
-Businesses across sectors need effective tools to **predict churn early and act proactively**.
+Customer acquisition costs are rising, making **retention and loyalty critical for sustainable growth**. Businesses across sectors need effective tools to **predict churn early and act proactively**.
 
 This project simulates how a company can:  
 - Analyze customer behavior and churn drivers  
