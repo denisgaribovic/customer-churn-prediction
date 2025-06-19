@@ -83,4 +83,4 @@ This project simulates how a company can:
 
 ---
 
-*Built and maintained by [Denis Garibovic](https://www.linkedin.com/in/denisgaribovic).*
+*Built and maintained by [Denis Garibovic](https://www.linkedin.com/in/denis-garibovic/).*
