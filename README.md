@@ -1,38 +1,87 @@
 ![alt text](https://github.com/denisgaribovic/customer-churn-prediction/blob/main/Banner.png)
 
-This project tackles a common and financially significant problem in multiple sectors: **customer churn**.
+# 🔄 Customer Churn Prediction Pipeline
 
-The goal is to **identify which customers are at risk of leaving** using historical banking data and to build an interpretable and production-ready machine learning model to support **retention strategies**.
+A **production-ready machine learning pipeline** designed to help financial institutions **identify customers at risk of leaving**.  
+This project uses interpretable models and comprehensive feature engineering on historical banking data to support **data-driven retention strategies** and improve customer lifetime value.
 
-## 🔍 Business Context
+---
 
-Customer acquisition is expensive — retaining existing customers is critical for **sustainable growth**. With thousands of customers and multiple touchpoints, companies need **data-driven approaches** to predict and prevent churn.
+## ✨ Highlights
 
-This project simulates how a company might:
-- Analyse customer data to understand churn drivers
-- Build predictive models to anticipate churn risk
-- Support business decisions with interpretable, actionable insights
+- 📊 Built on a simulated banking customer dataset (~10,000 rows)  
+- 🔍 Explored churn drivers using interactive Plotly visualizations  
+- ⚙️ Engineered features including dummy variables, scaling, and preprocessing  
+- 🤖 Compared Logistic Regression, Random Forest, and XGBoost models  
+- 📈 Evaluated model performance with Accuracy, Precision, Recall, F1 Score, and ROC AUC  
+- 🧪 Demonstrated live prediction on new customer data  
+- 🔄 Reproducible and modular pipeline designed for easy scaling and deployment  
 
-## 🎯 Business Value
+---
 
-✅ Enables **early identification** of customers at risk  
-✅ Supports **data-driven marketing** and **customer retention strategy**  
-✅ Builds a **reproducible churn prediction pipeline** for future scaling  
-✅ Showcases strong **data storytelling** and **real-world problem solving**
+## 🎯 Business Context
 
-## 📊 Project Overview
+Customer acquisition costs are rising, making **retention and loyalty critical for sustainable growth**.  
+Businesses across sectors need effective tools to **predict churn early and act proactively**.
 
-| Phase               | Description                                                                 |
-|--------------------|-----------------------------------------------------------------------------|
-| **📁 Data Loading** | Data prepared from a simulated bank customer dataset (~10,000 rows)         |
-| **🧭 EDA**          | Exploratory Data Analysis with `Plotly` visualisations (saved as PNGs)      |
-| **🧱 Feature Engineering** | Dummy encoding, scaling, and thoughtful preprocessing                       |
-| **🤖 Modeling**     | Trained and compared 3 models: Logistic Regression, Random Forest, XGBoost  |
-| **📈 Evaluation**   | Used Accuracy, Precision, Recall, F1 Score, and ROC AUC for fair comparison |
-| **🧪 Prediction**   | Demonstrated a live prediction on sample customer data                      |
+This project simulates how a company can:  
+- Analyze customer behavior and churn drivers  
+- Build accurate and interpretable churn prediction models  
+- Provide actionable insights to marketing and retention teams  
 
-## 🛠️ Tech Stack
+---
 
-- `Python`, `Pandas`, `NumPy`, `Plotly`, `Matplotlib`
-- `scikit-learn`, `XGBoost`
-- Jupyter Notebook (for transparency and walkthrough)
+## 🛠️ Project Workflow
+
+### 1. 📁 Data Loading & Preparation
+
+- Loaded and cleaned a simulated bank customer dataset with ~10,000 records  
+- Ensured data integrity and handled missing values  
+
+### 2. 🧭 Exploratory Data Analysis (EDA)
+
+- Visualized key features and churn correlations using Plotly  
+- Saved visualizations as PNGs for reporting and transparency  
+
+### 3. 🧱 Feature Engineering
+
+- Applied dummy encoding for categorical variables  
+- Scaled numerical features where appropriate  
+- Created meaningful derived features to boost model performance  
+
+### 4. 🤖 Modeling & Comparison
+
+- Trained three models:  
+  - Logistic Regression (baseline, interpretable)  
+  - Random Forest (robust, nonlinear)  
+  - XGBoost (state-of-the-art gradient boosting)   
+
+### 5. 📈 Model Evaluation
+
+- Evaluated using multiple metrics: Accuracy, Precision, Recall, F1 Score, ROC AUC  
+
+### 6. 🧪 Prediction Demonstration
+
+- Showcased live predictions on new customer samples with interpretability explanations  
+
+---
+
+## 🧰 Tech Stack
+
+- Python, Pandas, NumPy  
+- Plotly, Matplotlib  
+- scikit-learn, XGBoost  
+- Jupyter Notebook for interactive walkthrough and reproducibility  
+
+---
+
+## 💡 Business Impact
+
+- ✅ Early identification of high-risk customers to target retention efforts  
+- ✅ Supports marketing teams with actionable, data-driven insights  
+- ✅ Enables reproducible churn prediction ready for future scaling and automation  
+- ✅ Demonstrates strong analytical storytelling aligned with real business challenges  
+
+---
+
+*Built and maintained by [Denis Garibovic](https://www.linkedin.com/in/denisgaribovic).*
