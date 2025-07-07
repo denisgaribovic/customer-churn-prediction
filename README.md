@@ -1,6 +1,6 @@
 ![alt text](https://github.com/denisgaribovic/customer-churn-prediction/blob/main/Banner.png)
 
-# 🔄 Customer Churn Prediction Pipeline
+# 🤖 Customer Churn Prediction
 
 A **production-ready machine learning pipeline** designed to help financial institutions **identify customers at risk of leaving**. This project uses interpretable models and comprehensive feature engineering on historical banking data to support **data-driven retention strategies** and improve customer lifetime value.
 
