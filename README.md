@@ -2,8 +2,7 @@
 
 # 🔄 Customer Churn Prediction Pipeline
 
-A **production-ready machine learning pipeline** designed to help financial institutions **identify customers at risk of leaving**.  
-This project uses interpretable models and comprehensive feature engineering on historical banking data to support **data-driven retention strategies** and improve customer lifetime value.
+A **production-ready machine learning pipeline** designed to help financial institutions **identify customers at risk of leaving**. This project uses interpretable models and comprehensive feature engineering on historical banking data to support **data-driven retention strategies** and improve customer lifetime value.
 
 ---
 
@@ -61,26 +60,4 @@ This project simulates how a company can:
 
 ### 6. 🧪 Prediction Demonstration
 
-- Showcased live predictions on new customer samples with interpretability explanations  
-
----
-
-## 🧰 Tech Stack
-
-- Python, Pandas, NumPy  
-- Plotly, Matplotlib  
-- scikit-learn, XGBoost  
-- Jupyter Notebook for interactive walkthrough and reproducibility  
-
----
-
-## 💡 Business Impact
-
-- ✅ Early identification of high-risk customers to target retention efforts  
-- ✅ Supports marketing teams with actionable, data-driven insights  
-- ✅ Enables reproducible churn prediction ready for future scaling and automation  
-- ✅ Demonstrates strong analytical storytelling aligned with real business challenges  
-
----
-
-*Built and maintained by [Denis Garibovic](https://www.linkedin.com/in/denis-garibovic/).*
+- Showcased live predictions on new customer samples with interpretability explanations
