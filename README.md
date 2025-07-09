@@ -31,6 +31,12 @@ This project demonstrates a realistic, end-to-end churn prediction solution that
 
 ---
 
+## 🧪 Full Analysis & Results
+
+All diagrams, model performance metrics, and pipeline visuals are available in the [Jupyter Notebook](https://github.com/denisgaribovic/customer-churn-prediction/blob/main/Customer%20Churn%20Prediction.ipynb).
+
+---
+
 ## ✅ Real-World Applications
 
 This churn prediction system can be used to power:
