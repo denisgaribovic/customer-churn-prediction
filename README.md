@@ -10,10 +10,10 @@ A production-ready machine learning pipeline that predicts customer churn using 
 
 Customer churn is one of the most costly challenges for subscription-based and financial businesses. Proactively identifying at-risk customers helps organizations:
 
-- 📉 Reduce acquisition and retention costs  
-- 📊 Personalize marketing and outreach campaigns  
-- 🔍 Gain insights into customer behavior patterns  
-- 💡 Improve customer experience and satisfaction  
+- Reduce acquisition and retention costs  
+- Personalize marketing and outreach campaigns  
+- Gain insights into customer behavior patterns  
+- Improve customer experience and satisfaction  
 
 This project demonstrates a realistic, end-to-end churn prediction solution that can be integrated into CRM systems, dashboards, or customer success workflows.
 
